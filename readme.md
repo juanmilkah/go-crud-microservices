@@ -12,3 +12,5 @@
 ### GET 
 /items 
 /items/{id}
+
+Project is licensed under the [MIT License](LICENSE)
